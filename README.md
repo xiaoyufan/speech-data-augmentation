@@ -15,8 +15,6 @@
 
 ## Training
 
-The baseline is established by training a DeepSpeech model with the [CMU Arctic dataset](http://www.festvox.org/cmu_arctic/).
-
 1. Run [train.ipynb](train.ipynb) in Colab.
 
 ## Data augmentation with MelGAN
