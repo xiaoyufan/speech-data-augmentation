@@ -19,7 +19,7 @@
 
 ## Data augmentation with MelGAN
 
-1. Run [MelGAN_VC.ipynb](MelGAN_VC.ipynb) in Colab.
+1. Run [melgan_vc.ipynb](melgan_vc.ipynb) in Colab.
 
 ## Inference and evaluation
 
